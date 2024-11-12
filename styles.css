@@ -6,7 +6,16 @@ body {
     margin: 0;
     padding: 0;
 }
-
+header, footer {
+    
+    background-color: #357ABD;;
+    color: white;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.samurai{
+    color: #c32d2d;
+}
 .logo img {
     width: 100px; 
     height: 100px; 
@@ -26,12 +35,12 @@ body {
     color: white;
     text-decoration: none;
     padding: 10px 15px;
-    background-color: #357ABD; 
+    background-color:  #34ac34; 
     border-radius: 5px;
 }
 
 .menu a:hover {
-    background-color: #2b5c91; 
+    background-color: #249b38; 
 }
 .container {
     width: 85%;
